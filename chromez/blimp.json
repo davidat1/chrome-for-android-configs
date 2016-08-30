@@ -7,17 +7,17 @@
   {"user": "Shakti", "email": "shaktisahu@chromium.org"},
   {"user": "Tommy", "email": "nyquist@chromium.org"},
   {"user": "Xing", "email": "xingliu@chromium.org"},
-  {"user": "Wez", "email": "wez@chromium.org"},
+  {"user": "Wez", "email": "wez@chromium.org"}
 ],
 "components": {
-  "client": "Mobile>Blimp>Client",
+  "client": "Mobile>Blimp>Client"
 },
 "dashes": [
   "cz-component-dash(client)",
   "cz-review-latency-dash",
-  "cz-review-load-dash",
+  "cz-review-load-dash"
 ],
 "timezones": [
-  {"city": "MTV", "timezone": "US/Pacific"},
+  {"city": "MTV", "timezone": "US/Pacific"}
 ]
 }
