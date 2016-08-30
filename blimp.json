@@ -12,6 +12,12 @@
 "components": {
   "client": "Mobile>Blimp>Client"
 },
+"updateSLO": {
+  "daily": "1",
+  "weekly": "7",
+  "fortnightly": "14",
+  "monthly": "30"
+},
 "dashes": [
   "cz-component-dash(client)",
   "cz-review-latency-dash",
