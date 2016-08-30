@@ -1,0 +1,20 @@
+{"cardview-heading": "Chrome for Android (go/clank-reviews-dash)",
+"users": [
+  {"user": "Dan", "email": "dfalcantara@chromium.org"},
+  {"user": "Yusuf", "email": "yusufo@chromium.org"},
+  {"user": "Donn", "email": "donnd@chromium.org"},
+  {"user": "Matt", "email": "mdjones@chromium.org"},
+  {"user": "Wei-Lin", "email": "wychen@chromium.org"},
+  {"user": "Lei", "email": "ltian@chromium.org"},
+  {"user": "Ian", "email": "ianwen@chromium.org"},
+  {"user": "Ted", "email": "tedchoc@chromium.org"},
+  {"user": "Theresa", "email": "twellington@chromium.org"},
+],
+"dashes": [
+  "cz-review-latency-dash",
+  "cz-review-load-dash",
+],
+"timezones": [
+  {"city": "MTV", "timezone": "US/Pacific"},
+]
+}
