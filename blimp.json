@@ -1,10 +1,12 @@
-{"cardview-heading": "Welcome to Blimp Client Reviews (go/blimp-reviews-dash)",
+{"cardview-heading": "Blimp Reviews (go/blimp-reviews-dash)",
 "users": [
+  {"user": "CJ", "email": "lethalantidote@chromium.org"},
   {"user": "David", "email": "dtrainor@chromium.org"},
   {"user": "Kevin", "email": "kmarshall@chromium.org"},
   {"user": "Khushal", "email": "khushalsagar@chromium.org"},
-  {"user": "Nick", "email": "maniscalco@chromium.org"},
+  {"user": "Menglin", "email": "mlliu@chromium.org"},
   {"user": "Shakti", "email": "shaktisahu@chromium.org"},
+  {"user": "Thomas", "email": "steimel@chromium.org"},
   {"user": "Tommy", "email": "nyquist@chromium.org"},
   {"user": "Xing", "email": "xingliu@chromium.org"},
   {"user": "Wez", "email": "wez@chromium.org"}
